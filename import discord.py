@@ -297,4 +297,4 @@ async def on_member_join(member):
         await channel.send(f'{member.mention} finally got here! Remember to say Hi!')
 
 
-bot.run("MTI1MDQ2NTk2NzIxNDE3MDEzMg.GCsmHs.f75oyeS1p5RK4qxkp4lp23G55XSmn1IdlIEPIA")
+bot.run("MTI1MDQ2NTk2NzIxNDE3MDEzMg.GOerPY.EZTPKRDg2qZ5N_O3JKtLLiUP1GwxrVmu-bjOoY")
